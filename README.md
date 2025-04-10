@@ -9,4 +9,12 @@ Polynomial regression extends this by including higher powers of x for complex, 
 
 Deciding the degree will be based on trial and error, as well as domain knowledge
 
+===============================
+L1/Lasso Regularization
+
+L2/Ridge regularization
+
+Regularization helps in reducing overfitting
+
+Higher polynomial will be reduced
 
